@@ -24,11 +24,11 @@ LXXX=80\
 XC=90\
 C=100\
 D = 500\
-M=1000\
+M=1000
 
 
 I will be using Java programming language to code this problem. A Roman numeral represents an integer using letters. 
-Therefore we first determine if the input from user is a valid string. 
+Therefore we first determine if the input from user is a valid string.\
 (1) letters (Only M D C L X V I can be accepted)\
 (2) numbers
 
