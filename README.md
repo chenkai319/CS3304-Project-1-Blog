@@ -52,3 +52,6 @@ For instance, in order to print a emoji to the console. You will need to call Ch
 For Question 2:
 
 The second problem is pretty interesting since it is about building something related to a stock company. I personally love to have some experience about stock in the future. The grammar gave me some headache when I took the first glance at it, it is pretty confusing to understand the meaning of each part. Then I saw the hint to take an extra notice about “<>”, I figured out the meaning of the grammar which is pretty exciting!! I chose Python as the language for this problem since it does not require specific instruction and relatively loose language comparing to other languages. As soon as I stepped into the problem, I realized the key point to start with this problem is to find a good way to parse the input. I started to pay attention to some unique characters in this input, such as “(”, “””. And I wrote one input example on my notebook and uses different highlighters to differentiate the different parts in order to demonstrate my coding logic. This is pretty useful and straightforward to me, I may use this approach as well to help me better and quicker understand a problem.
+
+
+Link: https://github.com/chenkai319/CS3304-Project-1-Blog/edit/master/README.md
